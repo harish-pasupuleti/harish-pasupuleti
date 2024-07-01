@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Harish</h1>
 <h3 align="center">Computer Science Student | Enthusiastic Beginner</h3>
 
-- 🌱 I’m currently learning **Data Science**
+- 🌱 I’m currently learning **Full Stack**
 
 - 📫 How to reach me **harishpasupuleti18@gmail.com**
 
